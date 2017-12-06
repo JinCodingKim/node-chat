@@ -1,0 +1,12 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JinCodingKim/node-chat.git",
+  "author": "<jinyeob.kim.0818@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
